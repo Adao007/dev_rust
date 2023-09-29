@@ -1,1 +1,1 @@
-/Users/anthonydao/Documents/RustEducation/datatypes/target/debug/datatypes: /Users/anthonydao/Documents/RustEducation/datatypes/src/main.rs
+/Users/anthonydao/dev_rust/datatypes/target/debug/datatypes: /Users/anthonydao/dev_rust/datatypes/src/main.rs

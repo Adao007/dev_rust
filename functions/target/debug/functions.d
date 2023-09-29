@@ -1,1 +1,1 @@
-/Users/anthonydao/Documents/RustEducation/functions/target/debug/functions: /Users/anthonydao/Documents/RustEducation/functions/src/main.rs
+/Users/anthonydao/dev_rust/functions/target/debug/functions: /Users/anthonydao/dev_rust/functions/src/main.rs
