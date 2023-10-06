@@ -1,4 +1,8 @@
+// This project only runs up to the 48th seq. 
+// Increase the datatype to solve? 
+
 use std::io; 
+
 const FIRST_NUMBER: u32 = 0; 
 const SECOND_NUMBER: u32 = 1; 
 
