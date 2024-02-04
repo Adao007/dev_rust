@@ -8,7 +8,7 @@ const SECOND_NUMBER: u32 = 1;
 
 fn main() {
     let fibonacci;
-    let mut  number = 0; 
+    let mut number = 0; 
 
     println!("Welcome to the Fibonacci Sequence Generator!"); 
 

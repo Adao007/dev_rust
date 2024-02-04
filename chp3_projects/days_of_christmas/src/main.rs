@@ -18,7 +18,7 @@ fn main() {
     // Use &str when you have a immutable string 
     // Use String when you have a changing mutable string
 
-    for i in 1..13 {
+    for i in 0..12 {
         println!("[VERSE {}]", i); 
         days(i); 
         
