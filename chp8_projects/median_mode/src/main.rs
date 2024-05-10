@@ -8,6 +8,16 @@ use rand::Rng;
 
 fn main() {
     let mut rng = rand::thread_rng();
-    let n: u32 = rng.gen_range(0..100);
+    let mut n: u32 = rng.gen_range(0..100);
     println!("Random number: {}", n);
+
+    // Initialize List
+    let mut list: [u32; 10] = [0; 10]; 
+    for i in 0..list.len() {
+        n = rng.gen_range(0..100);
+        list[i] = n;
+    }
+
+    println!("{:?}", list);
+    
 }
