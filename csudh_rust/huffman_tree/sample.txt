@@ -1,0 +1,11 @@
+In Section 9.4, Huffman Trees are introduced and the Huffman’s algorithm to construct a Huffman tree is discussed. In this project you will implement the Huffman’s algorithm to define a Huffman code for a given English text.
+Write a program that constructs a Huffman code for a given English text and encode it. The English character occurrence probabilities can be computed from the given text.
+Experiment with your encoding program to find a range of typical compression ratios for Huffman’s encoding of English texts of, say, 1000 words.
+Experiment with your encoding program to find out how sensitive the compression ratios are to using standard estimates of frequencies instead of actual frequencies of character occurrences in English texts.
+Write a program for decoding an English text that has been encoded with a Huffman code. You can design your way to communicate the English character occurrence probabilities
+Your pseudocode of the algorithms.
+The source code of your algorithms.
+Your test cases.
+Your test results.
+Convert your submission documents to word file or PDF file and upload to Canvas.
+No hard copy or email submission will be accepted.
