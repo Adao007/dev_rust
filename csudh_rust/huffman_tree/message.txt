@@ -1,0 +1,20 @@
+Hello Professor, 
+
+Thank you for the lessons! I appreciate the time and preparations you put into the lectures.
+There was alot of material to get through in such a short period of time... Though the class is
+ending, I have a feeling that the course material isn't finished with me yet. 
+I believe I am taking another one of your classes in the fall! So I will see you then! Have a
+nice week long break (that is if you get one!). 
+
+PS: I did create two programs for part 1.) and 4.) of the requirements. But I ended up fusing
+the two programs into one program that takes in the name of a file, counts the frequencies of 
+the symbols, inputs those arrays into a function that creates the tree. Then using the tree, I 
+generated the codes and encoded the message. My second program, was similar in that it followed
+the previous steps and then decoded. I added a decoding function to the original program. It 
+seemed cleaner that way. 
+
+I had a problem in that symbols with the same frequencies 
+would create different huffman trees at different runtimes. That was fun...
+
+Sincerely,
+Anthony Dao 
